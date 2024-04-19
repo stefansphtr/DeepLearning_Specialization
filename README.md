@@ -15,6 +15,10 @@
 
 # Deep Learning Specialization: Coursera (Presented by deeplearning.ai)
 
+![Logo_DeepLearning](./src/images/Logo_DeepLearning_PrimaryLogo.png)
+
+[DeepLearning.AI](https://www.deeplearning.ai/) is a company founded by Andrew Ng, which offers a variety of courses on deep learning. The Deep Learning Specialization on Coursera is a series of five courses that cover the foundations of deep learning, building neural networks, structuring machine learning projects, and convolutional neural networks. The courses are taught by Andrew Ng, who is a pioneer in the field of deep learning.
+
 This repository contains programming assignments from the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) on Coursera, provided by `deeplearning.ai`.
 
 Course Instructor: [Andrew Ng](http://www.andrewng.org/)
@@ -25,4 +29,4 @@ Course Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ## Ethical Considerations
 
-I acknowledge the significant effort that learners invest in understanding new concepts, building intuition, and troubleshooting assignments. The solutions provided in this repository are **strictly for reference purposes**. They are intended to assist you in overcoming obstacles should you encounter any difficulties. I strongly discourage the verbatim copying of any part of the code (the programming assignments are quite manageable if the instructions are followed meticulously). Likewise, I encourage you to attempt the quizzes independently before seeing the provided solutions. This course, with its exceptional content and structure, is a valuable resource created by the deeplearning.ai team.
+I recognize the hard work that students put into learning new ideas, developing their intuition, and fixing problems with their assignments. The answers in this repository are only **meant to be used as examples**. Their purpose is to help you get past problems if you happen to run into them. I strongly warn against copying any part of the code word-for-word; the programming assignments are easy to handle if the rules are carefully followed. In the same way, I suggest that you take the quizzes on your own before looking at the answers. The deeplearning.ai team made this course, which is a useful resource because of its great material and structure.
