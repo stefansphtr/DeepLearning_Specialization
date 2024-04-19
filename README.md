@@ -1,3 +1,18 @@
+<p align="center">
+  <a href="#">
+    <img src="https://badges.pufler.dev/visits/stefansphtr/DeepLearning_Specialization" alt="Visits Badge">
+    <img src="https://badges.pufler.dev/updated/stefansphtr/DeepLearning_Specialization" alt="Updated Badge">
+    <img src="https://badges.pufler.dev/created/stefansphtr/DeepLearning_Specialization" alt="Created Badge">
+    <img src="https://img.shields.io/github/contributors/stefansphtr/DeepLearning_Specialization" alt="Contributors Badge">
+    <img src="https://img.shields.io/github/last-commit/stefansphtr/DeepLearning_Specialization" alt="Last Commit Badge">
+    <img src="https://img.shields.io/github/commit-activity/m/stefansphtr/DeepLearning_Specialization" alt="Commit Activity Badge">
+    <img src="https://img.shields.io/github/repo-size/stefansphtr/DeepLearning_Specialization" alt="Repo Size Badge">
+    <img src="https://www.codefactor.io/repository/github/stefansphtr/DeepLearning_Specialization/badge" alt="CodeFactor" />
+    <img src="https://img.shields.io/badge/TensorFlow-2.16.1-FF6F00?logo=tensorflow" alt="TensorFlow Badge">
+    <img src="https://img.shields.io/badge/Keras-3.1.1-D00000?logo=keras" alt="Keras Badge">
+  </a>
+</p>
+
 # Deep Learning Specialization: Coursera (Presented by deeplearning.ai)
 
 This repository contains programming assignments from the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) on Coursera, provided by `deeplearning.ai`.
